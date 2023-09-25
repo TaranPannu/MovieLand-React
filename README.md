@@ -1,3 +1,4 @@
+![Image 2023-09-25 at 5 43 PM](https://github.com/TaranPannu/MovieLand-React/assets/99615766/0a499589-0922-442c-abf6-a943eb8f616d)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -5,6 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+
 
 ### `npm start`
 
